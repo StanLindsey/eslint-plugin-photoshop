@@ -1,13 +1,16 @@
 {
   "name": "eslint-plugin-photoshop",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds photoshop environment to eslint",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "Stan Lindsey",
+  "author": {
+    "name": "Stan Lindsey",
+    "website": "http://stanlindsey.net"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"

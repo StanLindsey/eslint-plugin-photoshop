@@ -24,6 +24,9 @@ Add `photoshop` to the plugins section of your `.eslintrc` configuration file. Y
 
 ```json
 {
+    "env": {
+        "photoshop/photoshop": true
+    },
     "plugins": [
         "photoshop"
     ]

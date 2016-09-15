@@ -25,5 +25,10 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanLindsey/eslint-plugin-photoshop.git"
+  },
+  "homepage": "https://github.com/StanLindsey/eslint-plugin-photoshop#readme"
 }
